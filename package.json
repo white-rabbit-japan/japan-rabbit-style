@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/foot-deliver-n7az0.japan-rabbit-style",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 1Z4ZrCoqvvxwHjZ96h75 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}

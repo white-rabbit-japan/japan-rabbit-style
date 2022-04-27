@@ -1,0 +1,20 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 03 Mar 2022 12:40:35 GMT
+ */
+
+:root {
+  --jpr-core-color-primary-base: #e32c1b;
+  --jpr-core-color-primary-soft: #f64934;
+
+  --jpr-core-color-accent-1: #007cff;
+  --jpr-core-color-accent-2: #009332;
+
+  --jpr-core-color-background: #ebebeb;
+  --jpr-core-color-background-soft: #f6f6f6;
+  --jpr-core-color-background-strong: #55555b;
+
+  --jpr-semantic-color-error: #ed0072;
+  --jpr-semantic-color-success: #009332;
+  --jpr-semantic-color-info: #0ea5e9;
+}
